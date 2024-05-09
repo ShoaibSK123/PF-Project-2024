@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
+//PROJECT MEMBERS:
+//Shoaib Khan
+//Mujeeb
+//Daniyal Ali
+
+
 //Shows all the available items and their info
 void itemShowcase(char items[30][50], float prices[30], int quantity[30]) {
     for (int i = 0; i < 30; i++) {
